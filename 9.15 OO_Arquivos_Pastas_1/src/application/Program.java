@@ -9,8 +9,8 @@ public class Program {
 	public static void main(String[] args) {
 
 		/*
-		 * File - Um arquivo e seu caminho Scanner - Leitor de texto IOException -
-		 * Exceção
+		 * File - Um arquivo e seu caminho Scanner - Leitor de texto
+		 * IOException - Exceção
 		 */
 
 		File file = new File("c:\\temp\\in.txt");
